@@ -1,4 +1,4 @@
-# GoTrail
+# UI GoTrail
 Gotrail is a prototype application for trail motorbike rental in the Malang area which aims to make it easier for bikers who vacation in the Malang area
 
  ## Link Figma
